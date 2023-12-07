@@ -4,12 +4,12 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/uDx0XZ2.png",
+            "IconURL": "https://i.imgur.com/DrCdGLf.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
             "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
+            "OpenOnStartOnlyNewPlayers": false,
             "UpdateInterval": 12
         },
         "tabs": [
