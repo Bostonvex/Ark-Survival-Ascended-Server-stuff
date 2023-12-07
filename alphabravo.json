@@ -4,6 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
+            "IconURL": "",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
