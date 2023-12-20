@@ -58,6 +58,7 @@ start D:\steamCMD\server\ShooterGame\Binaries\Win64\ArkAscendedServer.exe TheIsl
 :: 946645 = tranq machine gun #bugged
 :: 929393 = hypers cosmetics
 :: 944291 = chainsaw
+:: 928603 = easy mutations
 
 
 
