@@ -9,9 +9,9 @@ echo ------------------
 echo Starting server
 echo ------------------
 :: Crossplay friendly
-start D:\steamCMD\server\ShooterGame\Binaries\Win64\ArkAscendedServer.exe TheIsland_WP?SessionName="[Crossplay] alphabravo [discord.gg/sxE9Gkzv7x]"?AltSaveDirectoryName=theisland?Port=7778?QueryPort=27016?listen?ServerAdminPassword=<InsertPassword> -NoBattlEye -NoTransferFromFiltering -servergamelog -includetribelogs -ServerRCONOutputTribeLogs -mods=914844,900062,927131,926956,908148,930829,929110,928621,930494,929084,928597,931607,929868,929578,929912,931753,930032,931874,933447,934041,946694,928793,931877,931119,927083,928548,944291,933975,928603
+start D:\steamCMD\server\ShooterGame\Binaries\Win64\ArkAscendedServer.exe TheIsland_WP?SessionName="[Crossplay XPx5 Tx5 Hx5] alphabravo [discord.gg/sxE9Gkzv7x]"?AltSaveDirectoryName=theisland?Port=7778?QueryPort=27016?listen?ServerAdminPassword=fxb921gp -NoBattlEye -NoTransferFromFiltering -servergamelog -includetribelogs -ServerRCONOutputTribeLogs -mods=914844,900062,927131,926956,908148,930829,929110,928621,930494,929084,928597,931607,929868,929578,929912,931753,930032,931874,933447,934041,946694,928793,931877,931119,927090,928548,944291,933975,928603,947835,932753,932975
 
-:: Discord invite: https://discord.gg/sxE9Gkzv7x [boosted XPx5 Tx5 Hx6]
+:: Discord invite: https://discord.gg/sxE9Gkzv7x [boosted XPx5 Tx5 Hx5]
 :: 928988 = SuperSpyglass
 :: 900062 = Ceratosaurus X
 :: 916922 = Helicoprion X
@@ -59,6 +59,11 @@ start D:\steamCMD\server\ShooterGame\Binaries\Win64\ArkAscendedServer.exe TheIsl
 :: 929393 = hypers cosmetics
 :: 944291 = chainsaw
 :: 928603 = easy mutations
+:: 927090 = winter wonderland
+:: 947835 = Human NPCS
+:: 952019 = asharavel
+:: 932753 = imprint potion
+:: 932975 = crazys potions
 
 
 
